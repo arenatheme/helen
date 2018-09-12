@@ -17,3 +17,7 @@
   * [Theme settings](theme-settings.md)
 * [Templates](customization/templates.md)
 
+## Extension
+
+* [Changelog](extension/changelog.md)
+
