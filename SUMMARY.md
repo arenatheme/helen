@@ -10,4 +10,5 @@
 
 * [Theme Installation](README.md)
 * [Supported Apps & Compatibility](supported-apps-and-compatibility.md)
+* [Shopify Metafield](shopify-metafield.md)
 
