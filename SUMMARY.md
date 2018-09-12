@@ -14,3 +14,6 @@
   
 [Templates](templates.md)
 
+# Customization
+
+[Changelog](changelog.md)
