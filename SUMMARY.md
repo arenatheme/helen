@@ -12,3 +12,8 @@
 * [Supported Apps & Compatibility](supported-apps-and-compatibility.md)
 * [Shopify Metafield](shopify-metafield.md)
 
+## Customization
+
+* [Theme Customization](customization/theme-customization.md)
+  * [Sections](customization/theme-customization/test.md)
+
