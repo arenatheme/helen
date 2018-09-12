@@ -1,3 +1,5 @@
+{% method %}
+
 Think of theme settings like backbone of a theme.
 
 ### Typography
@@ -197,16 +199,6 @@ At **FOMO Popup**, you can customize:
 ### Checkout (default Shopify settings) 
 
 
- 
- 
- 
- 
-       
+{% endmethod %}
 
-
-    
-
-
-   
- 
  
