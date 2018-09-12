@@ -1,9 +1,9 @@
-# Summary
-* [Support](support.md)
+# SUMMARY
+[Support](support.md)
 
-# Installation
-
-* [Theme Package](README.md)
+# GETTING STARTED
+[Theme Package](README.md)
+[Supported Apps & Compatibility](app.md)
 
 # Customization
 
