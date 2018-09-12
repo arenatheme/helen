@@ -2,8 +2,6 @@
 
 ## Summary
 
-* [Sections](sections.md)
-* [Theme settings](theme-settings.md)
 * [Support](support.md)
 
 ## Getting Started
@@ -15,5 +13,7 @@
 ## Customization
 
 * [Theme Customization](customization/theme-customization.md)
-  * [Sections](customization/theme-customization/test.md)
+  * [Sections](sections.md)
+  * [Theme settings](theme-settings.md)
+* [Templates](customization/templates.md)
 
