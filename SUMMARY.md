@@ -1,10 +1,11 @@
 # Summary
+* [Support](support.md)
 
-## Installation
+# Installation
 
 * [Theme Package](README.md)
 
-## Customization
+# Customization
 
 * [Theme Customization:](theme-customization.md)
   * [Sections](sections.md)
