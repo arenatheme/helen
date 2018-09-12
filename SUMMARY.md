@@ -8,7 +8,7 @@
 
 # Customization
 
-[Theme Customization:](theme-customization.md)
+[Theme Customization](theme-customization.md)
   * [Sections](sections.md)
   * [Theme settings](theme-settings.md)
   
