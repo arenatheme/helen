@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-
+* [Theme Installation](getting_stated/theme-installation.md)
 * [Supported Apps & Compatibility](supported-apps-and-compatibility.md)
 * [Shopify Metafield](shopify-metafield.md)
 
