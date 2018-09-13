@@ -49,23 +49,18 @@ https://help.shopify.com/manual/products/import-export/export-products
 
 {% sample lang="Manual Installation" %}
 ## Manual Installation
-1. If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-helen-xxx.zip.
+1. Download the theme from [**ThemeForest Download**](https://themeforest.net/downloads) and unzip it on your computer. If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes).
 
-2. **Please extract the zip file you downloaded from ThemeForest.** If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
-![](/assets/file-download.png)
-
-3. you’ll see the following items inside:
+ After extracting it, you should see the following items:
  * documentation: theme manual folder
  * theme-package: contains the theme's installation files
  * file-upload: contains file with links to images, video is used in our demo.
  * pre-setting: contains the sample data file settings-data.json as our demo. In the case of many styles (child-theme), the directory will contain the records according to the styles that you can install.
 ![](/assets/pizzaro-file-unzip.png)
 
-4. Upload theme file (in theme-package folder) to your Shopify Store. [Refer to this link](https://help.shopify.com/en/manual/using-themes/adding-themes#upload-a-theme-file-from-your-computer)
- * From your Shopify admin, go to  **Online Store &gt; Themes.**
- * In the **More themes** area, click **Upload theme**.
- * From the **Upload theme** window, click **Choose File** to select the .zip file that you want to upload. The .zip file available at folder **theme-package**
- * Click **Upload**. The theme will be added to the Themes page of your admin
+2. From your Shopify admin, go to  **Online Store &gt; Themes.**
+3. In the **More themes** area, click **Upload theme**.
+4. From the **Upload theme** window, click **Choose File** to select the **.zip** file that you want to upload.
 5. Your new theme will show up below your current theme. It is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
 
 {% common %}
