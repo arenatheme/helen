@@ -11,4 +11,4 @@ If you are satisfied with our themes, please rate us 5 stars at [ThemeForest Dow
 
 ### THANK YOU FOR PURCHASING OUR THEME !
 
-###**_Arena STC_** 
+###**_Arena STC_**  
