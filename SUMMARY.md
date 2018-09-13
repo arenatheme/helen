@@ -1,10 +1,10 @@
 ## Summary
 
-* [Support](support.md)
+* [Support](README.md)
 
 ## Getting Started
 
-* [Theme Installation](README.md)
+* [Theme Installation](getting_started/theme-installation.md)
 * [Supported Apps & Compatibility](supported-apps-and-compatibility.md)
 * [Shopify Metafield](shopify-metafield.md)
 
