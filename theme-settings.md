@@ -160,8 +160,9 @@ At **Product Item Style**, you can customize:
   ![](/assets/swatch-color.png)
   
  * Hover effect:
+  - Overlay: product will have an overlay on it when being hovered.
+  - Extend content
   - Switch image: product will switch image when you hover it (product needs to have more than 1 image to use effect)
-  - Overlay: Product will have an overlay on it when being hovered.
   
  * Text align for product item: Left, right or center.
  * Sale Label:
@@ -187,13 +188,46 @@ At **Extensions**, you can customize:
  
 ### FOMO (Fear Of Missing Out) Popups 
 At **FOMO Popup**, you can customize:
- * Sales Notification Popups
+ * Sales Notification Popup
  
  ![](/assets/fomo popup.png)
  
- * Visitor Count Popups
+ * Visitor Count Popup
  
  ![](/assets/visitor-pop.png)
+ 
+ * Discount Popup
+ 
+ ![](/assets/discount_popup.png)
+ 
+ This popup is used to offer your customers a fixed value, percentage, or shipping discount on products, collections, or variants in your store at the first time they move the mouse's cursor out off browser window on specific product pages.
+ 
+ The following instruction will guide you how to use this popup:
+ 
+  1. Add 2 metafields:
+   ```
+    - namespace: c_f
+    - key: discount_code
+    - value: Add your Coupon code for the product
+    
+    - namespace: c_f
+    - key: discount_percent
+    - value: Display percent of discount
+   ```
+   In which:
+    - Discount code: The **discount code** you create
+    ![](/assets/discount_code.png)
+    - Discount percent: The **discount percent** OR **fixed amount** value you apply to your discount code (if you choose these 2 types)
+    ![](/assets/discount_type.png)
+  2. [Create discount code](https://help.shopify.com/en/manual/promoting-marketing/discount-codes/create-discount-codes)
+  
+  3. Go to a specific product, open Custom Field section and input the **discount code** you create at step 2 to metafields **Discount Code** and its value to **Discount Percent** (if your discount type at step 2 is **Percentage** or **Fixed amount**)
+  ![](/assets/discount_meta.png)
+  
+  4. Always remember to save your metafields with pink 'Save' button. 
+ 
+ 
+   
  
 ### Popup Newsletter
 ### Checkout (default Shopify settings) 
