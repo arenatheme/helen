@@ -2,6 +2,11 @@
 
 Sections let you empower merchants by giving them greater flexibility when customizing their online store ([source](https://www.shopify.com/partners/blog/introducing-sections-for-shopify-themes)). 
 There are two types of Sections: Static and Dynamic.
+______________________________________________________________________
+
+# Following topics 
+* [Theme settings.](https://arenatheme.gitbooks.io/helen-documentation/content/theme-settings.html)
+* [Templates in Helen theme.](https://arenatheme.gitbooks.io/helen-documentation/content/customization/templates.html)
 
 {% sample lang="Static sections" %}
 

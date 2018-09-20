@@ -6,9 +6,11 @@ There are 2 ways to install our theme package as demo website:
 * Manual: Upload theme package to Shopify Dashboard.
 * Automatic: Instal our app **Arena Installaton**.
 
+______________________________________________________________________
+
 # Following topics
 * [Install required Shopify apps.](supported-apps-and-compatibility.md)
-* [Setup Shopify Metafield for extent functions](shopify-metafield.md)
+* [Setup Shopify Metafield for extent functions.](shopify-metafield.md)
 
 
 {% sample lang="Arena Installaton Application" %}

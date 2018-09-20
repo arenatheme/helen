@@ -232,6 +232,12 @@ At **FOMO Popup**, you can customize:
 ### Popup Newsletter
 ### Checkout (default Shopify settings) 
 
+______________________________________________________________________
+
+# Following topics
+* [Templates in Helen theme.](https://arenatheme.gitbooks.io/helen-documentation/content/customization/templates.html)
+
+
 
 {% endmethod %}
 
