@@ -3,3 +3,4 @@ By default, our theme supports 4 free apps:
 * [Instagram shop by Snapppt](https://apps.shopify.com/instagram-shop-by-snapppt)
 * [Product Reviews](https://apps.shopify.com/product-reviews)
 * [Wishlist Compare by Arena](https://apps.arenatheme.com/install)
+
