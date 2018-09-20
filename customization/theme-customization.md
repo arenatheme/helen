@@ -6,6 +6,6 @@ In Shopify, you can edit your site via **Sections **and **Theme settings**. Next
 ## Following topics
 * [Shopify sections](https://arenatheme.gitbooks.io/helen-documentation/content/sections.html) 
 * [Theme settings](https://arenatheme.gitbooks.io/helen-documentation/content/theme-settings.html)
-* [Template in Helen](https://arenatheme.gitbooks.io/helen-documentation/content/customization/templates.html)
+* [Templates in Helen](https://arenatheme.gitbooks.io/helen-documentation/content/customization/templates.html)
 
 {% endmethod %}
