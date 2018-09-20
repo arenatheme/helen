@@ -6,6 +6,11 @@ There are 2 ways to install our theme package as demo website:
 * Manual: Upload theme package to Shopify Dashboard.
 * Automatic: Instal our app **Arena Installaton**.
 
+# Following topics
+* [Install required Shopify apps.](supported-apps-and-compatibility.md)
+* [Setup Shopify Metafield for extent functions](shopify-metafield.md)
+
+
 {% sample lang="Arena Installaton Application" %}
 ## Arena Installaton Application
 This is an application for Shopify designed by our engineers to support customers to easily install the theme, as well as notifications about upgrades.
@@ -62,10 +67,6 @@ https://help.shopify.com/manual/products/import-export/export-products
 3. In the **More themes** area, click **Upload theme**.
 4. From the **Upload theme** window, click **Choose File** to select the **.zip** file that you want to upload.
 5. Your new theme will show up below your current theme. It is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
-
-## Following topics
-* [Install required Shopify apps.](supported-apps-and-compatibility.md)
-* [Setup Shopify Metafield for extent functions](shopify-metafield.md)
 
 {% common %}
 

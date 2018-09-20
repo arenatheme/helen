@@ -180,6 +180,7 @@ They use static sections for configuration so depending on which template you ch
 ![](/assets/col-settings-short-des.png)
 
  * Filter:
+ 
  Filter in Shopify use **logical AND operator**, meaning if you choose 2 tags, eg: **Black** and **White**, collection will only show any products that holds these 2 tags. Products that don't have these 2 tags or only have 1 of them won't meet the condition to be displayed.
  
  Therefore, we developed our theme so that you can opt not to use **logical AND operator** (Disable 'AND' operator in a group filter). Once you choose that option, Shopify's **logical AND operator** will be changed to **logical OR operator**, which means if you choose 2 tags, eg: **Black** and **White**, collection will show any products that have 1 (**Black** or **White**) or both these 2 tags. 
