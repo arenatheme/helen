@@ -49,4 +49,4 @@ Metafield: Please refer to [How to install metafields](https://arenathemes.fresh
 **_All the above information about metafields will be re-mentioned at specific articles to consolidate your knowledge on metafields._** 
 
 # Following topics
-* [Setup Shopify Metafield for extent functions](https://arenatheme.gitbooks.io/helen-documentation/content/customization/theme-customization.html)
+* [Theme Customization](https://arenatheme.gitbooks.io/helen-documentation/content/customization/theme-customization.html)
