@@ -4,3 +4,7 @@ By default, our theme supports 4 free apps:
 * [Product Reviews](https://apps.shopify.com/product-reviews)
 * [Wishlist Compare by Arena](https://apps.arenatheme.com/install)
 
+# Following topics
+* [Setup Shopify Metafield for extent functions](shopify-metafield.md)
+
+
