@@ -179,7 +179,35 @@ They use static sections for configuration so depending on which template you ch
 
 ![](/assets/col-settings-short-des.png)
 
- * Filter
+ * Filter:
+ Filter in Shopify use **logical AND operator**, meaning if you choose 2 tags, eg: **Black** and **White**, collection will only show any products that holds these 2 tags. Products that don't have these 2 tags or only have 1 of them won't meet the condition to be displayed.
+ 
+ Therefore, we developed our theme so that you can opt not to use **logical AND operator** (Disable 'AND' operator in a group filter). Once you choose that option, Shopify's **logical AND operator** will be changed to **logical OR operator**, which means if you choose 2 tags, eg: **Black** and **White**, collection will show any products that have 1 (**Black** or **White**) or both these 2 tags. 
+ 
+ There are 2 filters styles (these 2 styles can only be used when **Sidebar Placement** is **None**):
+  - Toggle: a sidebar filter will appear from the left side of the screen once **CHOOSE SIDEBAR +** button is clicked.
+  
+    ![](/assets/filter-sidebar.png) 
+    
+  - Dropdown: a filter section will slide down once **CHOOSE SIDEBAR +** button is clicked.
+  
+    ![](/assets/dd-filter.png)      
+  
+ There are 2 filter types:
+  - Filter by Tags:
+  
+    This type will show all product tags of products in your current collection and you can filter your collection via theses tags.
+    
+  - Filter by Groups:
+  
+    - This type allows you to divide your product tags to separate groups according to how you name them.
+    - To setup Filter by Groups, please add product's tag under format 'Group'_'Value', in which **Group** if your filter group's name and **Value** is that filter group's value.
+      * For example: 
+      
+        ``Color_Black, Brand_Elle, Price_$100-$300``
+        ``- 3 groups: Color, Brand, Price.`` 
+        ``- 3 corresponding values: Black (belongs to group Color), Elle (belongs to group Brand), $100-$300 (belongs to group Price).`` 
+ 
  * Sidebar Settings:
   * Sidebar Placement
   * Sidebar Categories
