@@ -45,6 +45,18 @@ Metafield: Please refer to [How to install metafields](https://arenathemes.fresh
      * namespace: c_f
      * key: bundle_2
      * value: Add your product handle #2!
+     
+- Discount Popup:
+
+  1. Discount Code:    
+     * namespace: c_f
+     * key: discount_code
+     * value: Add your Coupon code for the product
+     
+  2. Discount percent   
+     * namespace: c_f
+     * key: discount_percent
+     * value: Display percent of discount
 
 **_All the above information about metafields will be re-mentioned at specific articles to consolidate your knowledge on metafields._** 
 
